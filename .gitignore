@@ -1,0 +1,31 @@
+# Binaries
+infracost
+*.exe
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.tar.gz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+*.out
+
+# Architecture viz build
+architecture-viz/dist/
+architecture-viz/node_modules/
